@@ -1,2 +1,2 @@
 # express-cloudinary
-This is my app using Cloudinary for image uploads.
+Using Cloudinary, a cloud-based image and video management service for image uploads in my Express app.
